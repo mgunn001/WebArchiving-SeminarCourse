@@ -3,29 +3,29 @@
 
 ## Seeds Captured
 ### Single Page Seeds
-	*http://indianexpress.com/article/26-11/timeline/2611-mumbai-terror-attacks-heres-what-happened-at-taj-mahal-hotel-trident-oberoi-nariman-house/
-	*https://blogs.timesofindia.indiatimes.com/everything-social/2611-mumbai-attacks-eyewitnesses-recount-what-happened-that-night/
-	*http://www.telegraph.co.uk/news/worldnews/asia/india/9985109/Mumbai-terror-attacks-the-making-of-a-monster.html
-	http://indianexpress.com/article/26-11/timeline/perpetrators-and-masterminds-of-the-2611-mumbai-terror-attacks/
-	http://indianexpress.com/article/26-11/timeline/2611-mumbai-terror-attacks-remembering-our-security-personnel-who-put-their-lives-at-risk/
-	https://en.wikipedia.org/wiki/2008_Mumbai_attacks
-	https://www.brookings.edu/blog/markaz/2015/11/14/modeled-on-mumbai-why-the-2008-india-attack-is-the-best-way-to-understand-paris/
-	https://www.theguardian.com/world/2008/dec/12/mumbai-arundhati-roy
-	http://www.washingtonpost.com/wp-dyn/content/article/2008/11/26/AR2008112604708.html
-	https://www.huffingtonpost.com/wajahat-ali/indian-muslims-defining-t_b_151320.html
-	http://indiatoday.intoday.in/story/26-11-mumbai-terror-attack-compensation/1/819131.html
-	https://en.wikipedia.org/wiki/Aftermath_of_the_2008_Mumbai_attacks
+* http://indianexpress.com/article/26-11/timeline/2611-mumbai-terror-attacks-heres-what-happened-at-taj-mahal-hotel-trident-oberoi-nariman-house/
+* https://blogs.timesofindia.indiatimes.com/everything-social/2611-mumbai-attacks-eyewitnesses-recount-what-happened-that-night/
+* http://www.telegraph.co.uk/news/worldnews/asia/india/9985109/Mumbai-terror-attacks-the-making-of-a-monster.html
+* http://indianexpress.com/article/26-11/timeline/perpetrators-and-masterminds-of-the-2611-mumbai-terror-attacks/
+* http://indianexpress.com/article/26-11/timeline/2611-mumbai-terror-attacks-remembering-our-security-personnel-who-put-their-lives-at-risk/
+* https://en.wikipedia.org/wiki/2008_Mumbai_attacks
+* https://www.brookings.edu/blog/markaz/2015/11/14/modeled-on-mumbai-why-the-2008-india-attack-is-the-best-way-to-understand-paris/
+* https://www.theguardian.com/world/2008/dec/12/mumbai-arundhati-roy
+* http://www.washingtonpost.com/wp-dyn/content/article/2008/11/26/AR2008112604708.html
+* https://www.huffingtonpost.com/wajahat-ali/indian-muslims-defining-t_b_151320.html
+* http://indiatoday.intoday.in/story/26-11-mumbai-terror-attack-compensation/1/819131.html
+* https://en.wikipedia.org/wiki/Aftermath_of_the_2008_Mumbai_attacks
 
 ### Seeds to crawl more than the single page, Pagination taken place
-	http://www.indiatvnews.com/news/india/facts-to-know-about-26-11-mumbai-attacks-44584.html
-	http://www.cnn.com/2013/09/18/world/asia/mumbai-terror-attacks/index.html
-	http://www.pbs.org/wnet/secrets/mumbai-massacre-background-information/502/
+* http://www.indiatvnews.com/news/india/facts-to-know-about-26-11-mumbai-attacks-44584.html
+* http://www.cnn.com/2013/09/18/world/asia/mumbai-terror-attacks/index.html
+* http://www.pbs.org/wnet/secrets/mumbai-massacre-background-information/502/
 
 
 
 ## Links for the collections
- *https://archive-it.org/collections/9540
- *https://archive-it.org/collections/1757
+* https://archive-it.org/collections/9540
+* https://archive-it.org/collections/1757
 
 
 ## Experience Using the Archival tools:
