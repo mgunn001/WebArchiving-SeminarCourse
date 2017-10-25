@@ -42,7 +42,9 @@ An attempt to archive the data about what actually happend on 26/11/2008 in Mumb
 
 * If there are multiple inner links to be archived, WebRecorderIO  needs us to navigate to each of those links.
 
-* Best thing is the one can capture the sublinks which are needed out of all the links with in a document.
+* Best thing is one can capture the sublinks which are needed out of all the links with in a document.
+
+* Disadvantage is that WebRecorderIO create multiple copies when scrolled up & and down.
 
 
 ## Archive-IT
