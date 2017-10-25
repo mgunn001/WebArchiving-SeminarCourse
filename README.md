@@ -38,7 +38,7 @@ An attempt to archive the data about what actually happend on 26/11/2008 in Mumb
  
 * Got hanged when trying with this url: http://www.telegraph.co.uk/news/worldnews/asia/india/9985109/Mumbai-terror-attacks-the-making-of-a-monster.html
 
-* There is a Video embeded in the following http://www.washingtonpost.com/wp-dyn/content/video/2008/11/26/VI2008112603904.html which could be played with the normal browser with the flash player enabled, but this video couldn’t be captured via WebRecorderIO.
+* There is a video embeded in the following http://www.washingtonpost.com/wp-dyn/content/video/2008/11/26/VI2008112603904.html which could be played with the normal browser with the flash player enabled, but this video couldn’t be captured via WebRecorderIO.
 
 * If there are multiple inner links to be archived, WebRecorderIO  needs us to navigate to each of those links.
 
@@ -52,7 +52,7 @@ An attempt to archive the data about what actually happend on 26/11/2008 in Mumb
 
 * Grammarly had got something to do with adding seeds.
 
-* video from http://www.washingtonpost.com/wp-dyn/content/video/2008/11/26/VI2008112603904.html didn't work here either.
+* Video from http://www.washingtonpost.com/wp-dyn/content/video/2008/11/26/VI2008112603904.html didn't work here either.
 
 ##  With WarCreate
 * Nice chrome extension to create a warc file of the current viewing web page, it’s kinda pain to create the warc file of the embedded link and relate these with the seed, takes lot of manual work.
@@ -69,7 +69,7 @@ An attempt to archive the data about what actually happend on 26/11/2008 in Mumb
 
 * I realise the process is stuck, or maybe not showing any progress , except there is an icon showing the crawl is running.
 
-* video from http://www.washingtonpost.com/wp-dyn/content/video/2008/11/26/VI2008112603904.html didn't work here either.
+* Video from http://www.washingtonpost.com/wp-dyn/content/video/2008/11/26/VI2008112603904.html didn't work here either.
 
 
 ### Situations or types of pages where you’d recommend this tool over the others
