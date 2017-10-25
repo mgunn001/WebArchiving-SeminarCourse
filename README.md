@@ -3,9 +3,9 @@
 
 ## Seeds Captured
 ### Single Page Seeds
-	http://indianexpress.com/article/26-11/timeline/2611-mumbai-terror-attacks-heres-what-happened-at-taj-mahal-hotel-trident-oberoi-nariman-house/
-	https://blogs.timesofindia.indiatimes.com/everything-social/2611-mumbai-attacks-eyewitnesses-recount-what-happened-that-night/
-	http://www.telegraph.co.uk/news/worldnews/asia/india/9985109/Mumbai-terror-attacks-the-making-of-a-monster.html
+	*http://indianexpress.com/article/26-11/timeline/2611-mumbai-terror-attacks-heres-what-happened-at-taj-mahal-hotel-trident-oberoi-nariman-house/
+	*https://blogs.timesofindia.indiatimes.com/everything-social/2611-mumbai-attacks-eyewitnesses-recount-what-happened-that-night/
+	*http://www.telegraph.co.uk/news/worldnews/asia/india/9985109/Mumbai-terror-attacks-the-making-of-a-monster.html
 	http://indianexpress.com/article/26-11/timeline/perpetrators-and-masterminds-of-the-2611-mumbai-terror-attacks/
 	http://indianexpress.com/article/26-11/timeline/2611-mumbai-terror-attacks-remembering-our-security-personnel-who-put-their-lives-at-risk/
 	https://en.wikipedia.org/wiki/2008_Mumbai_attacks
@@ -24,8 +24,8 @@
 
 
 ## Links for the collections
- https://archive-it.org/collections/9540
- https://archive-it.org/collections/1757
+ *https://archive-it.org/collections/9540
+ *https://archive-it.org/collections/1757
 
 
 ## Experience Using the Archival tools:
