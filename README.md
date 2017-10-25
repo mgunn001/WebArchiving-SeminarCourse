@@ -1,6 +1,11 @@
 
 # Collection Assignment
 
+## Introduction
+An attempt to archive the data about what actually happend on 26/11/2008 in Mumbai and it after effects. The result is a collections made using different tools WebRecorderIO, Archive-IT and WAIL Manily. Nearly 15 seeds are used as the primary sources for this collection, some of these seeds are crawled Page Only and some seeds are crawled with the Same Domain links and for one or two seeds with the Crawl being done at External Links too as an experimentation, all these seeds are presented below. This collection surely preserves the information on what really happend during 26/11 Mumbai attacks. This report includes the the links to the Archived Collection both from the WebRecorderIO and Archive-It. Also contains the information on expereince using these tools.
+
+
+
 ## Seeds Captured
 ### Single Page Seeds
 * http://indianexpress.com/article/26-11/timeline/2611-mumbai-terror-attacks-heres-what-happened-at-taj-mahal-hotel-trident-oberoi-nariman-house/
@@ -37,7 +42,7 @@
 
 * If there are multiple inner links to be archived, WebRecorderIO  needs us to navigate to each of those links.
 
-* Best thing is the one can capture the sublinks only when needed with in a document.
+* Best thing is the one can capture the sublinks which are needed out of all the links with in a document.
 
 
 ## Archive-IT
@@ -47,6 +52,7 @@
 
 * Grammarly had got something to do with adding seeds.
 
+* video from http://www.washingtonpost.com/wp-dyn/content/video/2008/11/26/VI2008112603904.html didn't work here either.
 
 ##  With WarCreate
 * Nice chrome extension to create a warc file of the current viewing web page, it’s kinda pain to create the warc file of the embedded link and relate these with the seed, takes lot of manual work.
@@ -55,7 +61,7 @@
 
 
 ##  With WAIL
-* I personally liked this application the most to have a Archive Collection locally, this tool is the best. 
+* I personally liked this application the most to have Archive Collections locally, this tool is the best. 
 
 * The check seed functionality is really great, which give the number of same domain and external seeds.
 
@@ -63,13 +69,23 @@
 
 * I realise the process is stuck, or maybe not showing any progress , except there is an icon showing the crawl is running.
 
+* video from http://www.washingtonpost.com/wp-dyn/content/video/2008/11/26/VI2008112603904.html didn't work here either.
 
-### Are these Seeds enough ? And how can someone use this collection.
+
+### Situations or types of pages where you’d recommend this tool over the others
+* WebRecorderIO is recomended when one wants to choose from links in a particular page (either from same domain links or from external links), where as Archive-IT and Wail has the option wheter to do it page and page + etc, which captures the entire links.
+
+* Archive-It and WAIL are recomended when a user doesnt have to choose between which internal links to be captured and have to capture the entireity either with Page or Page +
+
+* WAIL is ofcourse recomended when some want to have a personal collection locally in their machines.
+
+
+### Are these Seeds enough ? And how can someone use this collection !
 With the Archiving been done on these seeds, I can see that this data is preserved for ever until Archive-It and webrecorder decides to shutdown, 
-And thanks to WSDL Group that i do have the local copies beacuse of WAIL and Warcreate. I can say that these 15 seeds covered almost every insight about the terrible incident that happened.
-
+And thanks to WSDL Group that I do have the local copies beacuse of WAIL and Warcreate. Even in case all the primary seeds metioned above are down or deleted with this collection one can know how terrified was the 26/11 Mumbai attack. I can say that these 15 seeds covered almost every insight about the terrible incident that happened. But my Collection may not contain the information on recent verdicts or If some new infomartion is being revealed.
 
 
 
 
 ### Resource Change Indentification 
+* I havent noticed any resource with in the seed that is being changed from the point I initially started collecting.
