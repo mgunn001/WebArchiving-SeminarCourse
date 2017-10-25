@@ -88,4 +88,4 @@ And thanks to WSDL Group that I do have the local copies beacuse of WAIL and War
 
 
 ### Resource Change Indentification 
-* I havent noticed any resource with in the seed that is being changed from the point I initially started collecting.
+I havent noticed any resource with in the seed that is being changed from the point I initially started collecting.
