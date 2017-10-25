@@ -62,3 +62,14 @@
 * If there is a kind of intermediate progress show on each memento would had been great.
 
 * I realise the process is stuck, or maybe not showing any progress , except there is an icon showing the crawl is running.
+
+
+### Are these Seeds enough ? And how can someone use this collection.
+With the Archiving been done on these seeds, I can see that this data is preserved for ever until Archive-It and webrecorder decides to shutdown, 
+And thanks to WSDL Group that i do have the local copies beacuse of WAIL and Warcreate. I can say that these 15 seeds covered almost every insight about the terrible incident that happened.
+
+
+
+
+
+### Resource Change Indentification 
